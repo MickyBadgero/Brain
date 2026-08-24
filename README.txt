@@ -7,7 +7,7 @@ The purpose of this project is to map the human brain and create code that will 
 This has been in the works for seven-and-a-half months, and is not complete.
 
 I am putting it out on Github now as much as a warning against using Opus 5 for biological projects as anything.
-I have a companion project, Kythera that I started when Fable 5 came out and dropped down to Opus 4.8 whenever biology was mentioned.
+I have a companion project, Kythera, that I started when Fable 5 came out and dropped down to Opus 4.8 whenever biology was mentioned.
 Kythera is to be the same project, but only with computer science and electrical engineering terms in it.
 My concern was that the Fable 5 guardrails would be extended to Opus at some point, and biology would not be allowed.
 This text file makes it appear that they have creeped into Opus 5, accidentally or intentionally as an almost invisible guardrail:
